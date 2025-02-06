@@ -8,4 +8,3 @@ function stringChop(str, size) {
     }
     return chunksStr;
 }
-}
